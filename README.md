@@ -1,1 +1,1 @@
-//Sample eCommerce app with API
+//Sample eCommerce app with Fake API
